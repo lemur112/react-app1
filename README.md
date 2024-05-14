@@ -19,3 +19,8 @@ Aby zainstalować i uruchomić aplikację, wykonaj następujące kroki:
 1. Sklonuj repozytorium na swoje lokalne urządzenie.
 2. Zainstaluj zależności za pomocą `npm install`.
 3. Uruchom aplikację za pomocą `npm start`.
+
+
+## Prezentacja aplikacji
+![zdj1](image.png)
+![zdj2](image-1.png)
